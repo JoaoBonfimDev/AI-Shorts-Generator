@@ -1,0 +1,18 @@
+{
+  "input": "",
+  "export_directory": "exports",
+  "data_directory": ".local",
+  "model_path": "",
+  "model": "small",
+  "language": null,
+  "audio_track": 0,
+  "render_audio_track": 0,
+  "sample_seconds": 10,
+  "chunk_seconds": 300,
+  "duration_seconds": 45,
+  "shorts": 4,
+  "minimum_score": 35,
+  "encoder": "auto",
+  "label": "GAMEPLAY",
+  "paid_api_enabled": false
+}

@@ -1,0 +1,9 @@
+{
+  "editorial_export.py": "506dcdc15163c9b77be130370168535fcb6fb1860cbdd80cac109f0b6430a1ee",
+  "editorial_scan.py": "b909da3f9ca7ed5d958ce91d636f71c13761fa597a312965a16d2ac7ba848733",
+  "export_destination.py": "22c6c3ec98bc7bba448430d1fe4ff54f4d11c3fba65d4ead3b4d542d3812eb93",
+  "report_current.py": "0051f176911768cb06b74384806d10eaceacead18d71a1b2eaf3c8df074647f7",
+  "shorts.py": "9b1302b528ec99284ea8260b3e9cee5cdf1ff9d59256bf777580bbd1800ab1a9",
+  "test_export_destination.py": "bc6852538247dda801a1c1a83461bd2381f41b4570957627954222b6b1e3fdfe",
+  "verify_current.py": "fb07adfa689002250c2619e7e438482c145914c1183f7561e15593c0f3a4d13f"
+}

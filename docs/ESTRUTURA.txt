@@ -1,0 +1,32 @@
+AI-Shorts-Generator/
+  .gitignore
+  .vscode/launch.json
+  .vscode/settings.json
+  aishorts/__init__.py
+  aishorts/config.py
+  aishorts/export.py
+  aishorts/media.py
+  aishorts/pipeline.py
+  aishorts/ranking.py
+  aishorts/render.py
+  aishorts/scan.py
+  config.example.json
+  docs/ESTRUTURA.txt
+  docs/LIMITACOES.md
+  docs/MIGRACAO.md
+  docs/original_hashes.json
+  docs/TESTES.md
+  Executar.cmd
+  Instalar.cmd
+  main.py
+  package_project.py
+  README.md
+  requirements.txt
+  tests/smoke_media.py
+  tests/smoke_pipeline.py
+  tests/test_core.py
+
+Arquivos locais não incluídos no ZIP:
+  config.local.json (entrada/saída/modelo pessoais)
+  .venv/ (instalada pelo usuário)
+  .local/ (modelos, intermediários, testes e resultados privados)
